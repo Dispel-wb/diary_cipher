@@ -5,7 +5,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)](https://flutter.dev)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Static Badge](https://img.shields.io/badge/Windows_Release.zip-Download-blue)]()
+[![Static Badge](https://img.shields.io/badge/Windows_Release.zip-Download-blue)](https://github.com/Dispel-wb/diary_cipher/blob/main/diary_cipher.zip)
 
 
 ---
