@@ -7,3 +7,6 @@ build/
 *.iml
 .DS_Store
 Thumbs.db
+android/
+ios/
+macos/
